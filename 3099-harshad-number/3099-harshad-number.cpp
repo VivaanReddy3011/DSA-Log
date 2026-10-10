@@ -10,9 +10,6 @@ public:
             s+=(x%10);
             x/=10;
         }
-        if(y%s==0)
-            return s;
-        else
-            return -1;
+        return (y%s==0)?s:-1;
     }
 };

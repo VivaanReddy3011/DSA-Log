@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1929-concatenation-of-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Enumeration
 |  |

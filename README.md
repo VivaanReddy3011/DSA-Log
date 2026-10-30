@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [0485-max-consecutive-ones](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0485-max-consecutive-ones) |
+| [0661-image-smoother](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1470-shuffle-the-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |

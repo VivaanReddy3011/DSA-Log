@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Enumeration
 |  |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [0485-max-consecutive-ones](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0766-toeplitz-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1929-concatenation-of-array) |
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0766-toeplitz-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->

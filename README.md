@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0319-bulb-switcher) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [3099-harshad-number](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3099-harshad-number) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

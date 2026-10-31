@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [3099-harshad-number](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3099-harshad-number) |
 | [3516-find-closest-person](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3516-find-closest-person) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |

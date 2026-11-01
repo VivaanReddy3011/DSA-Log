@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [3099-harshad-number](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3516-find-closest-person) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Recursion
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3360-stone-removal-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3360-stone-removal-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Enumeration
 |  |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0766-toeplitz-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [3099-harshad-number](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3099-harshad-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |

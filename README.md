@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3516-find-closest-person) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |

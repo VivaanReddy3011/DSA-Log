@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0392-is-subsequence) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [3099-harshad-number](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3099-harshad-number) |
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->

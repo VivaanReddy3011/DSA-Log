@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0485-max-consecutive-ones) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
@@ -124,4 +126,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
+| [2578-split-with-minimum-sum](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2578-split-with-minimum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
+| [2578-split-with-minimum-sum](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2578-split-with-minimum-sum) |
 | [3099-harshad-number](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3099-harshad-number) |
 | [3360-stone-removal-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3516-find-closest-person) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
+| [2578-split-with-minimum-sum](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2578-split-with-minimum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |

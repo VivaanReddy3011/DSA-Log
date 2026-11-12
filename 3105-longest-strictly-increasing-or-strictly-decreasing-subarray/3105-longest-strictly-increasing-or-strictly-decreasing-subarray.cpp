@@ -8,7 +8,6 @@ public:
         int s=1;
         for(int i=1;i<nums.size();i++)
         {
-            cout<<f<<" "<<s<<"\n";
             if(nums[i-1]<nums[i] && f==0)
             {
                 f=1;

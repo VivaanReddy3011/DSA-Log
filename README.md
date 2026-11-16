@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3360-stone-removal-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Enumeration

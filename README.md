@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0055-jump-game) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2578-split-with-minimum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2126-destroying-asteroids) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2578-split-with-minimum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VivaanReddy3011/DSA-Log/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search

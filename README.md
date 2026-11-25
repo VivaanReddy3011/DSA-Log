@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0829-consecutive-numbers-sum](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0829-consecutive-numbers-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/VivaanReddy3011/DSA-Log/tree/master/0829-consecutive-numbers-sum) |
 | [1925-count-square-sum-triples](https://github.com/VivaanReddy3011/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VivaanReddy3011/DSA-Log/tree/master/2778-sum-of-squares-of-special-elements) |
